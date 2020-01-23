@@ -9,7 +9,7 @@
   "private": false,
   "scripts": {
     "serve": "parcel serve demo/index.html",
-    "build": "parcel build src/bootstrap.scss"
+    "build": "parcel build src/bootstrap.scss --no-source-maps"
   },
   "dependencies": {},
   "devDependencies": {
