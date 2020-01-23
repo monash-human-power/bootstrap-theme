@@ -6,11 +6,17 @@ Monash Human Power's Bootstrap 4 theme.
 
 ## Getting Started
 
-*Steps on how to run your project*
+### Installation
 
-- [ ] Installation steps
-- [ ] Build steps
-- [ ] Starting the project
+Install all the required dependencies with `yarn`.
+
+### Developing
+
+Start the development server with `yarn serve` and go to `http://localhost:1234`. Any changes will instantly reload the page!
+
+### Building for production
+
+`yarn build` will create an optimized production bundle.
 
 ## TODOs
 
