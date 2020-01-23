@@ -2,7 +2,7 @@
 
 [![All Contributors](https://img.shields.io/badge/all_contributors-2-orange.svg?style=flat-square)](#contributors)
 
-Monash Human Power's Bootstrap 4 theme.
+Monash Human Power's Bootstrap 4 theme. Demo page based on [Bootstrap 4 Kitchen Sink](https://github.com/csbarker/bootstrap-4-kitchen-sink).
 
 ## Getting Started
 
