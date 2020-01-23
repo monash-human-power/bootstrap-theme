@@ -2,14 +2,14 @@
   "name": "mhp-bootstrap-theme",
   "version": "1.0.0",
   "description": "Monash Human Power's Bootstrap 4 theme ",
-  "main": "dist/custom.css",
+  "main": "dist/bootstrap.css",
   "repository": "https://github.com/monash-human-power/bootstrap-theme",
   "author": "Angus Trau <me@angus.ws>",
   "license": "MIT",
   "private": false,
   "scripts": {
     "serve": "parcel serve demo/index.html",
-    "build": "parcel build src/custom.scss"
+    "build": "parcel build src/bootstrap.scss"
   },
   "dependencies": {},
   "devDependencies": {
