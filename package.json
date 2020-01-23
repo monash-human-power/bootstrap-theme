@@ -2,7 +2,7 @@
   "name": "mhp-bootstrap-theme",
   "version": "1.0.0",
   "description": "Monash Human Power's Bootstrap 4 theme ",
-  "main": "demo/index.html",
+  "main": "dist/custom.css",
   "repository": "https://github.com/monash-human-power/bootstrap-theme",
   "author": "Angus Trau <me@angus.ws>",
   "license": "MIT",
