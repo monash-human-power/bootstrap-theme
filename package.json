@@ -7,9 +7,14 @@
   "author": "Angus Trau <me@angus.ws>",
   "license": "MIT",
   "private": false,
+  "scripts": {
+    "serve": "parcel serve demo/index.html",
+    "build": "parcel build src/custom.scss"
+  },
   "dependencies": {},
   "devDependencies": {
     "bootstrap": "^4.4.1",
-    "parcel-bundler": "^1.12.4"
+    "parcel-bundler": "^1.12.4",
+    "sass": "^1.25.0"
   }
 }
