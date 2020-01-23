@@ -1,0 +1,10 @@
+{
+  "name": "mhp-bootstrap-theme",
+  "version": "1.0.0",
+  "description": "Monash Human Power's Bootstrap 4 theme ",
+  "main": "demo/index.html",
+  "repository": "https://github.com/monash-human-power/bootstrap-theme",
+  "author": "Angus Trau <me@angus.ws>",
+  "license": "MIT",
+  "private": false
+}
