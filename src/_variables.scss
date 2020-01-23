@@ -1,1 +1,20 @@
+// MHP colours
+$mhp-navy: #143151;
+$mhp-olive: #ccf381;
+$mhp-white: #ffffff;
+$mhp-blue: #4831d4;
+$mhp-orange: #f2a252;
+$mhp-black: #000000;
+
+// Options
 $enable-rounded: false;
+
+// Colours
+$theme-colors: (
+  "primary": $mhp-olive,
+  "secondary": $mhp-blue
+);
+
+// Fonts
+$headings-font-family: "Muli", sans-serif;
+$headings-font-weight: 900;
